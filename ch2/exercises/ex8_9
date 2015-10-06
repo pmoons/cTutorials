@@ -1,0 +1,6 @@
+answer = (3*q-p*p)/3;
+
+answer = ( 3 * q - p * p  )  /  3  ;
+1      2 3 4 5 6 7 8 9 10 11 12 13 14
+
+There are 14 tokens in the above statement. A token is a group of characters that can't be split up without changing their meaning. Identifiers and keywords are tokens, as well as operators such as +, -, and punctuation marks such as the comma and semicolon, and string literals.

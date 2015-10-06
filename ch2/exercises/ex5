@@ -1,0 +1,6 @@
+(a) 100_bottles: not a legal identifier
+(b) _100_bottles: legal identifier
+(c) one__hundred__bottles: legal identifier
+(d) bottles_by_the_hundred: legal identifier
+
+A legal identifier must begin with a letter or underscore.

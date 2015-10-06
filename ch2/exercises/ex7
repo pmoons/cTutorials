@@ -1,0 +1,5 @@
+(a) for: this is a keyword
+(b) If: this is NOT a keyword, "if" is a keyword
+(c) main: this is a NOT a keyword, just the name of the entry function into a C program
+(d) printf: this is NOT a keyword, just the name of a function in the standard library -- this is bad practice and some compilers will restrict identifiers with the same name as standard library functions.
+(e) while: this is a keyword
